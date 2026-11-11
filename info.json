@@ -1,14 +1,14 @@
 {
   "name": "Tenebris_plants_retexture-Updated",
   "version": "1.0.0",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "title": "Tenebris plants retexture (2.1)",
   "author": "mafisto, updated by Alex Green",
   "homepage": "https://github.com/GreenTech-Solutions/Tenebris_plants_retexture-Updated",
   "description": "Change plants of Tenebris. Only visual change.\nTenebris plants retexture by mafisto, updated for Factorio 2.1.",
   "dependencies": [
-    "base >= 2.0.0",
-    "space-age >= 2.0.0",
+    "base >= 2.1.0",
+    "space-age >= 2.1.0",
     "? tenebris-prime",
     "? tenebris",
     "! Tenebris_plants_retexture"
