@@ -14,6 +14,8 @@ info() { python3 -c 'import json, sys; print(json.load(open(sys.argv[1]))[sys.ar
 
 mod=$(info name)
 fields=(
+  -F "mod=$mod"
+  -F "title=$(info title)"
   -F "summary=Tenebris plants retexture by mafisto, updated for Factorio 2.1: new textures for the plants of Tenebris, a visual change only."
   -F "description=<$here/description.md"
   -F "category=tweaks"
