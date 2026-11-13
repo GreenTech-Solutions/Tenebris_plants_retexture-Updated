@@ -1,6 +1,6 @@
 {
   "name": "Tenebris_plants_retexture-Updated",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "factorio_version": "2.1",
   "title": "Tenebris plants retexture (2.1)",
   "author": "mafisto, updated by Alex Green",
@@ -13,5 +13,7 @@
     "? tenebris",
     "! Tenebris_plants_retexture"
   ],
-  "migrates_from": ["Tenebris_plants_retexture"]
+  "migrates_from": [
+    "Tenebris_plants_retexture"
+  ]
 }
