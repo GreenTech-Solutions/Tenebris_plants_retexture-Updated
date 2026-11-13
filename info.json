@@ -12,5 +12,6 @@
     "? tenebris-prime",
     "? tenebris",
     "! Tenebris_plants_retexture"
-  ]
+  ],
+  "migrates_from": ["Tenebris_plants_retexture"]
 }
